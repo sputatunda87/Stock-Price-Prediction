@@ -1,0 +1,17 @@
+pandas
+numpy
+yfinance
+datetime 
+ta
+pandas_datareader 
+scipy
+statsmodels
+matplotlib
+seaborn
+plotly
+prettytable
+sklearn
+tensorflow
+keras
+warnings
+tslearn
